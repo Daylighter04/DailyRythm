@@ -4,4 +4,5 @@ O DailyRhythm é um aplicativo que tem a proposta de ajudar o usuário a desenvo
 
 O usuário irá atualizar suas metas e hábitos com a frequência desejada, então o próprio aplicativo irá mostrar a evolução diária, semanal e mensal de cada uma.
 
-!Protótipo (daily rythm.jpg)
+![Protótipo:](daily rythm.jpg)
+
